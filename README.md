@@ -4,11 +4,11 @@ Esta é uma solução para o [desafio do componente do cartão de visualização
 
 ## Índice
 
-- [Visão geral](#visão geral)
+- [Visão geral](#visao-geral)
   - [O desafio](#o-desafio)
   - [Links](#links)
 - [Meu processo](#meu-processo)
-  - [Construído com](#construído com)
+  - [Construído com](#construido-com)
   - [O que aprendi](#o-que-aprendi)
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
